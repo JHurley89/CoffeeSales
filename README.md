@@ -1,2 +1,2 @@
 # CoffeeSales
-Excel project using Maven Analytics data examining sales at a coffee shop.
+Excel project using Maven Analytics data examining sales at a coffee shop. For this project, I calculated revenue and added columns for the month and day of the week. Afterward, I created a series of pivot tables detailing revenue by month and transactions per day, hour, and product category. Also product type by count of transaction and revenue. I added a slicer for the shop location and made a series of pivot charts to display all the data.
